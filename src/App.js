@@ -73,7 +73,7 @@ function App() {
                      <svg
                         onClick={() =>
                            (window.location.href =
-                              'https://www.dextools.io/app/en/solana/pair-explorer/AEFFoxdWQHK2Sod7Wx6x8RC5cR4KRPVjVL6LNYt2w1mt')
+                              'https://www.dextools.io/app/en/solana/pair-explorer/.........')
                         }
                         width='30'
                         height='30'
@@ -93,7 +93,7 @@ function App() {
                      </svg>
                      <svg
                         onClick={() =>
-                           (window.location.href = 'https://t.me/BruuuhSol')
+                           (window.location.href = 'https://t.me/BruuhCoin')
                         }
                         width='30'
                         height='30'
@@ -112,7 +112,7 @@ function App() {
 
                      <svg
                         onClick={() =>
-                           (window.location.href = 'https://x.com/BruuuhSol')
+                           (window.location.href = 'https://x.com/BruuhCoin')
                         }
                         width='30'
                         height='30'
@@ -134,7 +134,7 @@ function App() {
                <button
                   onClick={() =>
                      (window.location.href =
-                        'https://raydium.io/swap/?inputMint=sol&outputMint=aHAzZiavy46S4Wzj5qc9sPk4ziokZEAcCML5cfFpump')
+                        'https://raydium.io/swap/?inputMint=sol&outputMint=xxx')
                   }
                   className='hero__btn'
                >
@@ -158,7 +158,7 @@ function App() {
                <img className='about__buildings' src={aboutBuildings} alt='' />
                <div className='about__container container'>
                   <div className='about__left'>
-                     <span className='about__badge'>bruuuh’s mission</span>
+                     <span className='about__badge'>Bruuh’s mission</span>
                      <p className='about__text'>
                         Meet $BRUUH, the lazy green monster that doesn't give a
                         damn about anything or anyone. $BRUUH is sick of
@@ -167,19 +167,19 @@ function App() {
                         memetoken $BRUUH. Powered by the legendary Mike
                         Wazowski $BRUUH face, our mission is simple. Spread the
                         $BRUUH energy far and wide. Let's make every $BRUUH
-                        moment count. Bruuuh. Bruuuh. Bruuuh. Bruuuh. Bruuuh.
-                        Bruuuh.
+                        moment count. Bruuh. Bruuh. Bruuh. Bruuh. Bruuh.
+                        Bruuh.
                      </p>
                      <span className='about__label'>Contract address</span>
                      <div className='about__row'>
                         <p className='about__contract'>
-                        aHAzZiavy46S4Wzj5qc9sPk4ziokZEAcCML5cfFpump
+                        xxx
                         </p>
                         <button
                            onClick={() => {
                               navigator.clipboard
                                  .writeText(
-                                    'aHAzZiavy46S4Wzj5qc9sPk4ziokZEAcCML5cfFpump'
+                                    'xxx'
                                  )
                                  .then(() => {
                                     alert('Copied to clipboard!');
@@ -243,7 +243,7 @@ function App() {
                <div class='faq__container container'>
                   <div class='faq__col'>
                      <iframe
-                        src='https://jup.ag/swap/SOL-aHAzZiavy46S4Wzj5qc9sPk4ziokZEAcCML5cfFpump'
+                        src='https://jup.ag/swap/SOL-xxx'
                         height='500px'
                         width='100%'
                         data-ruffle-polyfilled=''
@@ -259,7 +259,7 @@ function App() {
                      class='footer__logo'
                      href='/web/20240829115258/https://bruheth.com/'
                   >
-                     <img src={logo2} alt='Bruuuh' className='w-[150px] object-contain'/>
+                     <img src={logo2} alt='Bruuh' className='w-[150px] object-contain'/>
                   </a>
                   <nav class='footer__nav'>
                      <a href='#home'>Home</a>
@@ -271,7 +271,7 @@ function App() {
                      <a
                         class='footer__btn'
                         target='_blank'
-                        href='https://www.dextools.io/app/en/solana/pair-explorer/AEFFoxdWQHK2Sod7Wx6x8RC5cR4KRPVjVL6LNYt2w1mt'
+                        href='https://www.dextools.io/app/en/solana/pair-explorer/.........'
                      >
                         <svg
                            width='30'
@@ -293,7 +293,7 @@ function App() {
                      <a
                         class='footer__btn'
                         target='_blank'
-                        href='https://t.me/BruuuhSol'
+                        href='https://t.me/BruuhCoin'
                      >
                         <svg
                            width='30'
@@ -312,7 +312,7 @@ function App() {
                      </a>
                      <a
                         class='footer__btn'
-                        href='https://x.com/BruuuhSol'
+                        href='https://x.com/BruuhCoin'
                         target='_blank'
                      >
                         <svg
