@@ -138,7 +138,7 @@ function App() {
                   }
                   className='hero__btn'
                >
-                  BUY $BRUUUH
+                  BUY $BRUUH
                </button>
                <div className='relative z-10 top-0 md:top-[-100px] mt-12'>
                   <img className='' src={heroBruh} alt='' />
@@ -160,13 +160,13 @@ function App() {
                   <div className='about__left'>
                      <span className='about__badge'>bruuuh’s mission</span>
                      <p className='about__text'>
-                        Meet $BRUUUH, the lazy green monster that doesn't give a
-                        damn about anything or anyone. $BRUUUH is sick of
+                        Meet $BRUUH, the lazy green monster that doesn't give a
+                        damn about anything or anyone. $BRUUH is sick of
                         watching meme tokens recently bleed to zero and be left
-                        with a true $BRUUUH moment. He decided to launch his own
-                        memetoken $BRUUUH. Powered by the legendary Mike
-                        Wazowski $BRUUUH face, our mission is simple. Spread the
-                        $BRUUUH energy far and wide. Let's make every $BRUUUH
+                        with a true $BRUUH moment. He decided to launch his own
+                        memetoken $BRUUH. Powered by the legendary Mike
+                        Wazowski $BRUUH face, our mission is simple. Spread the
+                        $BRUUH energy far and wide. Let's make every $BRUUH
                         moment count. Bruuuh. Bruuuh. Bruuuh. Bruuuh. Bruuuh.
                         Bruuuh.
                      </p>
@@ -213,7 +213,7 @@ function App() {
                   ></canvas>
                   <div class='tokenomics__border'>
                      <div class='tokenomics__inner'>
-                        <h2 class='tokenomics__title'>Tokenomics of $bruuuh</h2>
+                        <h2 class='tokenomics__title'>Tokenomics of $BRUUH</h2>
                         <div class='tokenomics__list'>
                            <div class='tokenomics__item'>
                               <span>LIQUIDITY</span>
