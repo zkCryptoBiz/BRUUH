@@ -79,7 +79,7 @@ function App() {
                         height='30'
                         viewBox='0 0 30 30'
                         fill='none'
-                        xmlns='https://i.postimg.cc/s2Z3KgtV/logo.png'
+                        xmlns='http://www.w3.org/2000/svg'
                         className='header__btn cursor-pointer'
                      >
                         <g>
