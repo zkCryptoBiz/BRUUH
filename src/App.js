@@ -73,7 +73,7 @@ function App() {
                      <svg
                         onClick={() =>
                            (window.location.href =
-                              'https://www.dextools.io/app/en/solana/pair-explorer/.........')
+                              'https://www.dextools.io')
                         }
                         width='30'
                         height='30'
@@ -271,7 +271,7 @@ function App() {
                      <a
                         class='footer__btn'
                         target='_blank'
-                        href='https://www.dextools.io/app/en/solana/pair-explorer/.........'
+                        href='https://www.dextools.io'
                      >
                         <svg
                            width='30'
