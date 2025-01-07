@@ -134,11 +134,11 @@ function App() {
                <button
                   onClick={() =>
                      (window.location.href =
-                        'https://raydium.io/swap/?inputMint=sol&outputMint=xxx')
+                        'https://pump.fun/coin/xxx')
                   }
                   className='hero__btn'
                >
-                  BUY $BRUUH
+                  PUMP $BRUUH
                </button>
                <div className='relative z-10 top-0 md:top-[-100px] mt-12'>
                   <img className='' src={heroBruh} alt='' />
