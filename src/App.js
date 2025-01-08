@@ -134,7 +134,7 @@ function App() {
                <button
                   onClick={() =>
                      (window.location.href =
-                        'https://pump.fun/coin/xxx')
+                        'https://pump.fun/coin/4d1CPiMTQgdmJd4qgQKafsCxbCyvdath5gGmmAFypump')
                   }
                   className='hero__btn'
                >
@@ -173,13 +173,13 @@ function App() {
                      <span className='about__label'>Contract address</span>
                      <div className='about__row'>
                         <p className='about__contract'>
-                        xxx
+                        4d1CPiMTQgdmJd4qgQKafsCxbCyvdath5gGmmAFypump
                         </p>
                         <button
                            onClick={() => {
                               navigator.clipboard
                                  .writeText(
-                                    'xxx'
+                                    '4d1CPiMTQgdmJd4qgQKafsCxbCyvdath5gGmmAFypump'
                                  )
                                  .then(() => {
                                     alert('Copied to clipboard!');
@@ -243,7 +243,7 @@ function App() {
                <div class='faq__container container'>
                   <div class='faq__col'>
                      <iframe
-                        src='https://jup.ag/swap/SOL-xxx'
+                        src='https://jup.ag/swap/SOL-4d1CPiMTQgdmJd4qgQKafsCxbCyvdath5gGmmAFypump'
                         height='500px'
                         width='100%'
                         data-ruffle-polyfilled=''
